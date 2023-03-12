@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T10:56:09.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="JAw9_kf4-Vk1k32zwSJU" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-12T11:02:15.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="vhA6DmFaCX8y80PPF0Ze" version="21.0.6" type="github" pages="2">
   <diagram name="Trang-1" id="RvJSVvao-R1DcUZAAfwQ">
     <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,20 +108,20 @@
         <mxCell id="FuILEMuiOat653bgSVNh-1" value="Система управления тренажерным залом" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="310" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuILEMuiOat653bgSVNh-2" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FuILEMuiOat653bgSVNh-2" value="Сменаи и расписание спортзала" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="90" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuILEMuiOat653bgSVNh-3" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FuILEMuiOat653bgSVNh-3" value="Товары тренажерного зала" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="190" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuILEMuiOat653bgSVNh-4" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FuILEMuiOat653bgSVNh-4" value="Управление объектами" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="304.5" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuILEMuiOat653bgSVNh-5" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FuILEMuiOat653bgSVNh-5" value="Оплата" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="420" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FuILEMuiOat653bgSVNh-6" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="530" width="140" height="60" as="geometry" />
+        <mxCell id="FuILEMuiOat653bgSVNh-6" value="Пользователи" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="630" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GrT7y1EjIwW3IL9wmHee-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -134,6 +134,45 @@
         </mxCell>
         <mxCell id="GrT7y1EjIwW3IL9wmHee-5" value="Администратор" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GrT7y1EjIwW3IL9wmHee-7" value="Пакет" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="530" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrT7y1EjIwW3IL9wmHee-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="440" as="sourcePoint" />
+            <mxPoint x="520" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrT7y1EjIwW3IL9wmHee-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="559.5" as="sourcePoint" />
+            <mxPoint x="520" y="559.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrT7y1EjIwW3IL9wmHee-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="659.5" as="sourcePoint" />
+            <mxPoint x="520" y="659.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrT7y1EjIwW3IL9wmHee-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="330" as="sourcePoint" />
+            <mxPoint x="520" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrT7y1EjIwW3IL9wmHee-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="219.5" as="sourcePoint" />
+            <mxPoint x="520" y="219.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrT7y1EjIwW3IL9wmHee-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="119.5" as="sourcePoint" />
+            <mxPoint x="520" y="119.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
