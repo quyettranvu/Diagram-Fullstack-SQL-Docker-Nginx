@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T11:29:23.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="o7iCFRZoyoqgblRUZAzJ" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-12T11:35:46.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="y4iV5KYDoCmyf8Bp9av9" version="21.0.6" type="github" pages="2">
   <diagram name="Trang-1" id="RvJSVvao-R1DcUZAAfwQ">
     <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LA5qToBrDnnYzZ-Dqv7t" name="Trang-2">
-    <mxGraphModel dx="600" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="800" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,13 +193,13 @@
         <mxCell id="GrT7y1EjIwW3IL9wmHee-21" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="210" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="GrT7y1EjIwW3IL9wmHee-22" value="Безопасность" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GrT7y1EjIwW3IL9wmHee-22" value="Безопасность обработки данных&amp;nbsp;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="200" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GrT7y1EjIwW3IL9wmHee-23" value="Настойчивость" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GrT7y1EjIwW3IL9wmHee-23" value="Упорство в сохранении извлеченных данных" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="324.5" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GrT7y1EjIwW3IL9wmHee-24" value="Плавный рабочий поток" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GrT7y1EjIwW3IL9wmHee-24" value="Плавный логический рабочий поток" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="460" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GrT7y1EjIwW3IL9wmHee-26" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;" edge="1" target="GrT7y1EjIwW3IL9wmHee-28" parent="1" source="GrT7y1EjIwW3IL9wmHee-23">
