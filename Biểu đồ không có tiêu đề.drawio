@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T11:37:07.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="THyC1B4I42P8yQdDpYMP" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-12T11:37:31.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="BkPjHLcCMUzbOhpscxsp" version="21.0.6" type="github" pages="2">
   <diagram name="Trang-1" id="RvJSVvao-R1DcUZAAfwQ">
     <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -228,7 +228,7 @@
         <mxCell id="GrT7y1EjIwW3IL9wmHee-31" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="600" y="354.5" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="GrT7y1EjIwW3IL9wmHee-32" value="Система управления тренажерным залом" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GrT7y1EjIwW3IL9wmHee-32" value="База Данных Система" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="610" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GrT7y1EjIwW3IL9wmHee-36" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="GrT7y1EjIwW3IL9wmHee-32" target="GrT7y1EjIwW3IL9wmHee-38" edge="1">
