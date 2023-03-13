@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T11:37:31.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="BkPjHLcCMUzbOhpscxsp" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-13T23:46:49.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="NWEP0VVfqBAC5MEiwcbc" version="21.0.6" type="github" pages="3">
   <diagram name="Trang-1" id="RvJSVvao-R1DcUZAAfwQ">
     <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -445,6 +445,43 @@
         </mxCell>
         <mxCell id="Dt8FBiumNa4Gw4JnFUGq-25" value="Доступ к данным" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="660" width="50" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1s-dvqxElYGwtEurlXNS" name="Trang-3">
+    <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7Em7hZxXaWGL1On4mJcN-1" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="550" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="7Em7hZxXaWGL1On4mJcN-2" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="480" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="7Em7hZxXaWGL1On4mJcN-3" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="100" y="165" width="420" height="355" as="geometry" />
+        </mxCell>
+        <mxCell id="7Em7hZxXaWGL1On4mJcN-4" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;Сервер приложений конечной точки" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="90" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Em7hZxXaWGL1On4mJcN-5" value="&amp;lt;&amp;lt;Веб-сервер&amp;gt;&amp;gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="130" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Em7hZxXaWGL1On4mJcN-6" value="&amp;lt;&amp;lt;Среда выполнения&amp;gt;&amp;gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="184" y="190" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Em7hZxXaWGL1On4mJcN-7" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ff99;shape=mxgraph.archimate.application;appType=artifact" vertex="1" parent="1">
+          <mxGeometry x="140" y="260" width="100" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="7Em7hZxXaWGL1On4mJcN-8" value="&amp;laquo;Annotation&amp;raquo;&lt;br/&gt;&lt;b&gt;Component&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7Em7hZxXaWGL1On4mJcN-9" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="7Em7hZxXaWGL1On4mJcN-8">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
