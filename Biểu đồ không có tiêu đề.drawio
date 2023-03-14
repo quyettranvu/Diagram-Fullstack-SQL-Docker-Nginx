@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T00:36:09.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="6idCpKXI7QyHc6bt8Pzg" version="21.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-14T00:38:30.126Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="5iY0tl4xJN5l5vcWzExw" version="21.0.6" type="github" pages="3">
   <diagram name="Trang-1" id="RvJSVvao-R1DcUZAAfwQ">
     <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -631,10 +631,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RS21H16E-QQsAUI034Oz-39" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="910" y="85" width="330" height="620" as="geometry" />
+          <mxGeometry x="910" y="85" width="370" height="565" as="geometry" />
         </mxCell>
         <mxCell id="RS21H16E-QQsAUI034Oz-41" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="942.5" y="116" width="257.5" height="554" as="geometry" />
+          <mxGeometry x="946.25" y="123" width="243.75" height="497" as="geometry" />
         </mxCell>
         <mxCell id="p7-tnSwX6xMgLdVS7OT5-1" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
           <mxGeometry x="810" y="326" width="100" height="8" as="geometry" />
@@ -646,25 +646,40 @@
           <mxGeometry x="831" y="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B74SCoBGHH0eEvk0-hf2-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;u&gt;Сервер базы данных:&lt;/u&gt;&amp;nbsp;Express&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="130" width="280" height="60" as="geometry" />
+          <mxGeometry x="910" y="80" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B74SCoBGHH0eEvk0-hf2-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;lt;&amp;lt;система базы данных&amp;gt;&amp;gt;&amp;nbsp;MongoDB&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="950" y="210" width="210" height="60" as="geometry" />
+          <mxGeometry x="965" y="140" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B74SCoBGHH0eEvk0-hf2-5" value="&amp;lt;&amp;lt;schema&amp;gt;&amp;gt;&lt;br&gt;Юзеры" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="276" width="190" height="50" as="geometry" />
+          <mxGeometry x="965" y="210" width="200" height="54" as="geometry" />
         </mxCell>
         <mxCell id="B74SCoBGHH0eEvk0-hf2-6" value="&amp;lt;&amp;lt;schema&amp;gt;&amp;gt;&lt;br&gt;Товары/Расписания" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="965" y="346" width="190" height="50" as="geometry" />
+          <mxGeometry x="965" y="276" width="205" height="54" as="geometry" />
         </mxCell>
         <mxCell id="B74SCoBGHH0eEvk0-hf2-7" value="&amp;lt;&amp;lt;schema&amp;gt;&amp;gt;&lt;br&gt;Оплата" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="965" y="420" width="195" height="70" as="geometry" />
+          <mxGeometry x="970" y="345" width="195" height="70" as="geometry" />
         </mxCell>
         <mxCell id="B74SCoBGHH0eEvk0-hf2-8" value="&amp;lt;&amp;lt;schema&amp;gt;&amp;gt;&lt;br&gt;Заказы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="965" y="500" width="195" height="70" as="geometry" />
+          <mxGeometry x="970" y="440" width="195" height="70" as="geometry" />
         </mxCell>
         <mxCell id="B74SCoBGHH0eEvk0-hf2-9" value="&amp;lt;&amp;lt;schema&amp;gt;&amp;gt;&lt;br&gt;Другие" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="965" y="590" width="195" height="70" as="geometry" />
+          <mxGeometry x="970" y="525" width="195" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="B74SCoBGHH0eEvk0-hf2-12" value="" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="213.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B74SCoBGHH0eEvk0-hf2-13" value="" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B74SCoBGHH0eEvk0-hf2-14" value="" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="350" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B74SCoBGHH0eEvk0-hf2-15" value="" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="448" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B74SCoBGHH0eEvk0-hf2-16" value="" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="530" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
