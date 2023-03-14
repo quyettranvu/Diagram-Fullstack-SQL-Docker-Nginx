@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T00:35:49.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="j-QigpxfL5Y3Xznkd6AX" version="21.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-14T00:36:09.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="6idCpKXI7QyHc6bt8Pzg" version="21.0.6" type="github" pages="3">
   <diagram name="Trang-1" id="RvJSVvao-R1DcUZAAfwQ">
     <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -663,7 +663,7 @@
         <mxCell id="B74SCoBGHH0eEvk0-hf2-8" value="&amp;lt;&amp;lt;schema&amp;gt;&amp;gt;&lt;br&gt;Заказы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="965" y="500" width="195" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="B74SCoBGHH0eEvk0-hf2-9" value="&amp;lt;&amp;lt;schema&amp;gt;&amp;gt;&lt;br&gt;Заказы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B74SCoBGHH0eEvk0-hf2-9" value="&amp;lt;&amp;lt;schema&amp;gt;&amp;gt;&lt;br&gt;Другие" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="965" y="590" width="195" height="70" as="geometry" />
         </mxCell>
       </root>
