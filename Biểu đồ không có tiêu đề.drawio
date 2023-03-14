@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T00:06:08.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Kd35a3Yvjb4ZTJB_e5fr" version="21.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-14T00:17:51.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="PslyNnMfbTT4hiHrk-gx" version="21.0.6" type="github" pages="3">
   <diagram name="Trang-1" id="RvJSVvao-R1DcUZAAfwQ">
     <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -450,7 +450,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1s-dvqxElYGwtEurlXNS" name="Trang-3">
-    <mxGraphModel dx="875" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="800" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -463,8 +463,8 @@
         <mxCell id="7Em7hZxXaWGL1On4mJcN-3" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="90" y="160" width="650" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="7Em7hZxXaWGL1On4mJcN-4" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;Сервер приложений конечной точки" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="90" width="270" height="30" as="geometry" />
+        <mxCell id="7Em7hZxXaWGL1On4mJcN-4" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;u&gt;Сервер приложений конечной точки: Mobile, Web, Desktop&lt;/u&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="72" y="90" width="398" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7Em7hZxXaWGL1On4mJcN-5" value="&amp;lt;&amp;lt;Веб-сервер&amp;gt;&amp;gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="130" width="230" height="30" as="geometry" />
@@ -475,7 +475,7 @@
         <mxCell id="7Em7hZxXaWGL1On4mJcN-7" value="Система_управления&lt;br&gt;_тренажерным залом" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ff99;shape=mxgraph.archimate.application;appType=artifact" vertex="1" parent="1">
           <mxGeometry x="140" y="260" width="130" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="7Em7hZxXaWGL1On4mJcN-8" value="«Component»&lt;br&gt;Пользовательские сервисы&amp;nbsp;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="7Em7hZxXaWGL1On4mJcN-8" value="«Component»&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Пользовательские сервисы&amp;nbsp;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="550" y="340" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7Em7hZxXaWGL1On4mJcN-9" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="7Em7hZxXaWGL1On4mJcN-8">
@@ -602,6 +602,33 @@
         </mxCell>
         <mxCell id="RS21H16E-QQsAUI034Oz-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="525" y="501" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RS21H16E-QQsAUI034Oz-26" value="&amp;lt;&amp;lt;deployment spec&amp;gt;&amp;gt;&lt;br&gt;статические файлы, SSL-сертификаты, облачные сервисы(необязательный)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="210" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RS21H16E-QQsAUI034Oz-27" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="RS21H16E-QQsAUI034Oz-26" target="7Em7hZxXaWGL1On4mJcN-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="340" as="sourcePoint" />
+            <mxPoint x="560" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RS21H16E-QQsAUI034Oz-31" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="570" y="200" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RS21H16E-QQsAUI034Oz-33" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/setting-128.png" vertex="1" parent="1">
+          <mxGeometry x="577" y="207" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="RS21H16E-QQsAUI034Oz-34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/setting-128.png" vertex="1" parent="1">
+          <mxGeometry x="595" y="240" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RS21H16E-QQsAUI034Oz-36" value="Dockerfile, Nginx&amp;nbsp;файл настроек" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="210" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RS21H16E-QQsAUI034Oz-38" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.004;exitY=0.723;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RS21H16E-QQsAUI034Oz-31" target="7Em7hZxXaWGL1On4mJcN-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="340" as="sourcePoint" />
+            <mxPoint x="280" y="326" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
