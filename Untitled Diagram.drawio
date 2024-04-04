@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-04T06:52:29.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="CYz5HmNQ2cvsVjktUdMh" version="24.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-04T06:53:07.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="z_RQXfMggeJ54gpvYwIY" version="24.2.1" type="github" pages="3">
   <diagram name="Page-1" id="ks-5JTauFXKGuqpB6sPf">
     <mxGraphModel dx="1002" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -202,7 +202,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Pu4RfMkPlAc_23WpTr44" name="Page-3">
-    <mxGraphModel dx="1431" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="573" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -246,7 +246,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6whNw3qOT_kKqJnoGyFy-12" value="return True" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6whNw3qOT_kKqJnoGyFy-12" value="return True&lt;br&gt;(Là số nguyên tố)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6whNw3qOT_kKqJnoGyFy-13" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
